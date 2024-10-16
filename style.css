@@ -209,7 +209,7 @@ header nav {
 
 .portfolio-row {
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-start;
     gap: 30px;
 }
 
